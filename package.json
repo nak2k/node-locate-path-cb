@@ -1,0 +1,28 @@
+{
+  "name": "locate-path-cb",
+  "version": "0.0.1",
+  "description": "locate-path callback ver.",
+  "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nak2k/node-locate-path-cb/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.7.0"
+  },
+  "homepage": "https://github.com/nak2k/node-locate-path-cb",
+  "keywords": [],
+  "license": "MIT",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nak2k/node-locate-path-cb.git"
+  },
+  "scripts": {
+    "test": "tape test/test*.js"
+  },
+  "files": [
+    "README.md",
+    "lib/"
+  ]
+}
